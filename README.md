@@ -1,2 +1,2 @@
 # My-first-project
-paste resturant
+pastel resturant
